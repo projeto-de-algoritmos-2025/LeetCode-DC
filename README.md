@@ -1,6 +1,6 @@
 # Dividir e Conquistar
 
-**Número da Lista**: 4
+**Número da Lista**: 44
 
 **Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
 
