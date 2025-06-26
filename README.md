@@ -27,18 +27,18 @@ Foram resolvidas três questões médias e uma questão difícil.
 
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
-| | | Difícil |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
 | | | Difícil |
 | | | Média |
 | | | Média |
 
 ### Difíceis
 
-#### 
+#### 23 - Merge k Sorted Lists
 
-![aceito ](./images/)
+![aceito 23](./images/23.png)
 
-[Link para submissão]()
+[Link para submissão](https://leetcode.com/problems/merge-k-sorted-lists/submissions/1677669575/)
 
 #### 
 
@@ -55,7 +55,7 @@ Foram resolvidas três questões médias e uma questão difícil.
 [Link para submissão]()
 
 
-#### 435. Non-overlapping Intervals
+#### 
 
 #### 
 
