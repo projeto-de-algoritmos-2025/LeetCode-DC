@@ -28,7 +28,7 @@ Foram resolvidas três questões médias e uma questão difícil.
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
-| | | Difícil |
+| 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | Difícil |
 |53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Média |
 | | | Média |
 
@@ -40,11 +40,11 @@ Foram resolvidas três questões médias e uma questão difícil.
 
 [Link para submissão](https://leetcode.com/problems/merge-k-sorted-lists/submissions/1677669575/)
 
-#### 
+#### 218. The Skyline Problem
 
-![aceito ](./images/)
+![aceito ](./images/218.png)
 
-[Link para submissão]()
+[Link para submissão](https://leetcode.com/problems/the-skyline-problem/submissions/1678682685)
 
 ### Médias
 
