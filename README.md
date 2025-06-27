@@ -29,7 +29,7 @@ Foram resolvidas três questões médias e uma questão difícil.
 | ------------------ | ---------------- | ----------- |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
 | | | Difícil |
-| | | Média |
+|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Média |
 | | | Média |
 
 ### Difíceis
@@ -50,9 +50,9 @@ Foram resolvidas três questões médias e uma questão difícil.
 
 #### 
 
-![aceito ](./images/)
+![aceito 53](./images/53.png)
 
-[Link para submissão]()
+[Link para submissão](https://leetcode.com/problems/maximum-subarray/submissions/1677744890)
 
 
 #### 
