@@ -64,7 +64,7 @@ Foram resolvidas três questões médias e uma questão difícil.
 
 ## Explicação dos algoritmos
 
-[Apresentação - Explicação dos Algoritmos]()
+[Apresentação - Explicação dos Algoritmos](https://www.youtube.com/watch?v=gV73tp_azPk)
 
 ## Instalação
 
