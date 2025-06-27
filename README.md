@@ -27,14 +27,14 @@ Foram resolvidas três questões médias e uma questão difícil.
 
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
-| 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | Difícil |
-|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Média |
-| | | Média |
+| 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | Difícil |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | Difícil |
+| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Média |
+| 1985| [Find the Kth Largest Integer in the Array](leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)| Média |
 
 ### Difíceis
 
-#### 23 - Merge k Sorted Lists
+#### 23. Merge k Sorted Lists
 
 ![aceito 23](./images/23.png)
 
@@ -48,20 +48,18 @@ Foram resolvidas três questões médias e uma questão difícil.
 
 ### Médias
 
-#### 
+#### 53. Maximum Subarray
 
 ![aceito 53](./images/53.png)
 
 [Link para submissão](https://leetcode.com/problems/maximum-subarray/submissions/1677744890)
 
 
-#### 
 
-#### 
+#### 1985. Find the Kth Largest Integer in the Array
 
-![aceito ](./images/)
-
-[Link para submissão]()
+![aceito 1985](./images/1985.png)
+[Link para submissão](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/submissions/1678696297/)
 
 
 ## Explicação dos algoritmos
